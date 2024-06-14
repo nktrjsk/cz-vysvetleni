@@ -1,0 +1,2 @@
+# cz-vysvetleni
+cz vysvětlení?
